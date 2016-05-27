@@ -1,4 +1,5 @@
 #/bin/bash
+set -x
 for ((i=1; i<=10; i++))
 do
     (cd ../cpan && git checkout master)
