@@ -7,7 +7,7 @@ use Test::Exception;
 use Scalar::Util qw(looks_like_number);
 use Pricing::Engine::EuropeanDigitalSlope;
 use Date::Utility;
-my $t = shift || 10000;
+my $t = shift || 1000;
 for (1..$t){
 my $now = Date::Utility->new('2015-10-21')->plus_time_interval('3h');
 # Hard-coded market_data & market_convention.
