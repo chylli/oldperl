@@ -2,9 +2,9 @@
     eval 'exec /home/git/regentmarkets/perl/bin/perl -S $0 ${1+"$@"}'
 	if $running_under_some_shell;
 
-my $config_tag1 = '5.22.2 - Fri May 27 02:16:41 UTC 2016';
+my $config_tag1 = '5.22.2 - Sat May 28 12:38:14 UTC 2016';
 
-my $patchlevel_date = 1460309636;
+my $patchlevel_date = 1464439038;
 my @patches = Config::local_patches();
 my $patch_tags = join "", map /(\S+)/ ? "+$1 " : (), @patches;
 
