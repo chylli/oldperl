@@ -9,7 +9,7 @@
 
 /* Package name      : perl5
  * Source directory  : .
- * Configuration time: Thu May 19 03:37:27 UTC 2016
+ * Configuration time: Sat May 28 10:35:38 UTC 2016
  * Configured by     : nobody
  * Target system     : linux qa22.regentmarkets.com 3.2.0-4-amd64 #1 smp debian 3.2.78-1 x86_64 gnulinux 
  */
@@ -3599,7 +3599,7 @@
  *	This symbol, if defined, indicates that the ualarm routine is
  *	available to do alarms with microsecond granularity.
  */
-#define HAS_UALARM		/**/
+/*#define HAS_UALARM		/ **/
 
 /* HAS_UNORDERED:
  *	This symbol, if defined, indicates that the unordered routine is
