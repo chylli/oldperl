@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 use Test::More; # tests => 15;
-use Test::NoWarnings;
+#use Test::NoWarnings;
 use Test::Exception;
 
 use Scalar::Util qw(looks_like_number);
