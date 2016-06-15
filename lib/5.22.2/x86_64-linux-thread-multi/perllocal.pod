@@ -1,0 +1,418 @@
+=head2 Wed Jun 15 00:49:56 2016: C<Module> L<JSON|JSON>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.90>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:49:59 2016: C<Module> L<Canary::Stability|Canary::Stability>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2011>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:50:01 2016: C<Module> L<common::sense|common::sense>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.74>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:50:02 2016: C<Module> L<Types::Serialiser|Types::Serialiser>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:50:07 2016: C<Module> L<JSON::XS|JSON::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.02>
+
+=item *
+
+C<EXE_FILES: bin/json_xs>
+
+=back
+
+=head2 Wed Jun 15 00:50:09 2016: C<Module> L<Module::CPANfile|Module::CPANfile>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.1002>
+
+=item *
+
+C<EXE_FILES: script/cpanfile-dump script/mymeta-cpanfile>
+
+=back
+
+=head2 Wed Jun 15 00:50:13 2016: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:50:48 2016: C<Module> L<Capture::Tiny|Capture::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.42>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:50:53 2016: C<Module> L<Path::Tiny|Path::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.094>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:50:54 2016: C<Module> L<Test::FailWarnings|Test::FailWarnings>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:51:00 2016: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:51:04 2016: C<Module> L<Unicode::UTF8|Unicode::UTF8>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.60>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:51:06 2016: C<Module> L<Test::MockRandom|Test::MockRandom>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:51:09 2016: C<Module> L<App::cpanminus|App::cpanminus>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.7042>
+
+=item *
+
+C<EXE_FILES: bin/cpanm>
+
+=back
+
+=head2 Wed Jun 15 00:51:11 2016: C<Module> L<Module::Reader|Module::Reader>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.002003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:51:13 2016: C<Module> L<Class::Tiny|Class::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:51:14 2016: C<Module> L<Carton|Carton>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: v1.0.28>
+
+=item *
+
+C<EXE_FILES: script/carton>
+
+=back
+
+=head2 Wed Jun 15 00:51:16 2016: C<Module> L<File::pushd|File::pushd>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.009>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 15 00:51:18 2016: C<Module> L<App::FatPacker|App::FatPacker>
+
+=over 4
+
+=item *
+
+C<installed into: /home/git/regentmarkets/perl/lib/site_perl/5.22.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.010005>
+
+=item *
+
+C<EXE_FILES: bin/fatpack>
+
+=back
+
